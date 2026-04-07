@@ -13,3 +13,12 @@ Violating node
 Violating node
 Violating node
 Learn more: The form input element
+
+
+
+
+Logica.js:23 No se encontraron registros para este hospital.
+cargarInventarioDesdeDB	@	Logica.js:23
+await in cargarInventarioDesdeDB		
+(anonymous)	@	Logica.js:578
+Turn on Console insights in Settings to receive AI assistance for understanding and addressing console warnings and errors. Learn more
