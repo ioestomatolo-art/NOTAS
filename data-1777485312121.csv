@@ -1,0 +1,106 @@
+"hospital_nombre","categoria","clave","descripcion","stock","minimo","fecha","dias_restantes"
+"Hospital General Papantla Dr.Jose Buill Belenguer","bienesInformaticos","S/C","COMPUTADORA DE ESCRITORIO MEDIO RENDIMIENTO WINDOWS",1,1,"",NULL
+"Hospital General Papantla Dr.Jose Buill Belenguer","bienesInformaticos","S/C","UNIDAD DE ENERGÍA ININTERRUMPIDA TIPO 3. INTERACTIVO, CAPACIDAD DE 500 VA/300 WATSS.",1,0,"",NULL
+"Hospital General Papantla Dr.Jose Buill Belenguer","equipo","S/C","CÁMARA INTRAORAL DIGITAL.",1,NULL,"",NULL
+"Hospital General Papantla Dr.Jose Buill Belenguer","equipo","531.385.1080","ESTERILIZADOR CON VAPOR AUTOGENERADO PARA DENTAL Y MAXILOFACIAL",1,0,"",NULL
+"Hospital General Papantla Dr.Jose Buill Belenguer","equipo","531.562.0020","LÁMPARA DE FOTOCURADO DE RESINAS Y CEMENTOS FOTOPOLIMERIZABLES",1,1,"",NULL
+"Hospital General Papantla Dr.Jose Buill Belenguer","equipo","531.032.0055","MEZCLADOR DE CÁPSULAS DENTALES, TIPO DOSIFICADOR-AMALGAMADOR (MEZCLA CÁPSULAS DE CEMENTO DE IONÓMERO DE VIDRIO Y OTROS CEMENTOS PREDOSIFICADOS EN CÁPSULAS) 4000 RPM",1,NULL,"",NULL
+"Hospital General Papantla Dr.Jose Buill Belenguer","equipo","537.480.0042","PIEZA DE MANO DE ALTA VELOCIDAD",2,1,"",NULL
+"Hospital General Papantla Dr.Jose Buill Belenguer","equipo","437.480.0034","PIEZA DE MANO DE BAJA VELOCIDAD CON CONTRAÁNGULO",2,1,"",NULL
+"Hospital General Papantla Dr.Jose Buill Belenguer","equipo","531.291.0028","UNIDAD ESTOMATOLÓGICA CON MÓDULO INTEGRADO",1,1,"",NULL
+"Hospital General Papantla Dr.Jose Buill Belenguer","equipo","531.341.2305","UNIDAD RADIOLÓGICA DENTAL INCLUYE SENSOR DIGITAL INTRAORAL (RADIOVISIÓGRAFO)",1,1,"",NULL
+"Hospital General Papantla Dr.Jose Buill Belenguer","equipo","515.957.0109","UNIDAD ULTRASÓNICA ESTOMATOLÓGICA",1,0,"",NULL
+"Hospital General Papantla Dr.Jose Buill Belenguer","instrumental","537.025.0069","ALVEOLOTOMO MEAD PINZA GUBIA LONGITUD 17CM",1,1,"0024-11-29",-731001
+"Hospital General Papantla Dr.Jose Buill Belenguer","instrumental","537.025.0069","ALVEOLOTOMO MEAD PINZA GUBIA LONGITUD 17CM",1,1,"",NULL
+"Hospital General Papantla Dr.Jose Buill Belenguer","instrumental","537.065.0052","APLICADOR DE HIDROXIDO DE CALCIO",5,1,"2024-11-29",-516
+"Hospital General Papantla Dr.Jose Buill Belenguer","instrumental","535.260.2154","CUCHARILLA LUCAS DE DOBLE EXTREMO 17CM DE LONGITUD",1,1,"2024-11-29",-516
+"Hospital General Papantla Dr.Jose Buill Belenguer","instrumental","537.327.0551","ELEVADOR APICAL FLOHR MANGO METALICO BRAZO ANGULAR EXTREMO FINO CORTO DERECHO",1,0,"2024-11-29",-516
+"Hospital General Papantla Dr.Jose Buill Belenguer","instrumental","537.327.0700","ELEVADOR APICAL FLOHR MANGO METALICO BRAZO ANGULAR EXTREMO FINO CORTO IZQUIERDO",1,0,"2024-11-29",-516
+"Hospital General Papantla Dr.Jose Buill Belenguer","instrumental","537.327.2664","ELEVADOR BEIN CON MANGO METALICO RECTO ACALANADO DE 4MM.",1,0,"2024-11-29",-516
+"Hospital General Papantla Dr.Jose Buill Belenguer","instrumental","537.327.0452","ELEVADOR BEIN CON MANGO METALICO RECTO ACANALADO DE 2 O 3 MM ANCHO DE HOJA",1,1,"2024-11-29",-516
+"Hospital General Papantla Dr.Jose Buill Belenguer","instrumental","537.327.1534","ELEVADOR SELDIN DE BANDERA DERECHO HOJA GRANDE",1,1,"2024-11-29",-516
+"Hospital General Papantla Dr.Jose Buill Belenguer","instrumental","537.327.2805","ELEVADOR SELDIN DE BANDERA DERECHO HOJA PEQUEÑA",1,1,"2024-11-29",-516
+"Hospital General Papantla Dr.Jose Buill Belenguer","instrumental","537.327.2813","ELEVADOR SELDIN DE BANDERA IZQUIERDA HOJA PEQUEÑA",1,0,"2024-11-29",-516
+"Hospital General Papantla Dr.Jose Buill Belenguer","instrumental","537.327.1609","ELEVADOR SELDIN DE BANDERA IZQUIERDO HOJA GRANDE",1,1,"2024-11-29",-516
+"Hospital General Papantla Dr.Jose Buill Belenguer","instrumental","537.370.0029","ESPÁTULA METÁLICA No.3 DOBLE EXTREMO (RECTANGULAR Y PUNTA LANZA)",1,1,"2024-11-29",-516
+"Hospital General Papantla Dr.Jose Buill Belenguer","instrumental","537.383.0081","ESPEJO DENTAL ROSCA SENCILLA PLANO SIN AUMENTO NO.5",20,0,"2024-11-29",-516
+"Hospital General Papantla Dr.Jose Buill Belenguer","instrumental","537.397.0168","EXCAVADOR TIPO WHITE No.17",10,5,"2024-11-29",-516
+"Hospital General Papantla Dr.Jose Buill Belenguer","instrumental","537.409.0531","EXPLORADOR DE UNA PIEZA CON DOBLE EXTREMO NO.5",10,3,"2024-11-29",-516
+"Hospital General Papantla Dr.Jose Buill Belenguer","instrumental","537.426.0221","FÓRCEPS NO.101",1,1,"2024-11-29",-516
+"Hospital General Papantla Dr.Jose Buill Belenguer","instrumental","537.426.0197","FÓRCEPS NO.150",1,1,"2024-11-29",-516
+"Hospital General Papantla Dr.Jose Buill Belenguer","instrumental","537.426.0189","FÓRCEPS NO. 151",1,1,"2024-11-29",-516
+"Hospital General Papantla Dr.Jose Buill Belenguer","instrumental","537.426.0171","FÓRCEPS NO.17",1,1,"2024-11-29",-516
+"Hospital General Papantla Dr.Jose Buill Belenguer","instrumental","537.426.0023","FÓRCEPS. NO 23.",1,NULL,"2024-11-29",-516
+"Hospital General Papantla Dr.Jose Buill Belenguer","instrumental","537.426.0460","FÓRCEPS NO.53 DERECHO",1,NULL,"2024-11-29",-516
+"Hospital General Papantla Dr.Jose Buill Belenguer","instrumental","537.426.0270","FÓRCEPS NO.53 IZQUIERDO",1,NULL,"2024-11-29",-516
+"Hospital General Papantla Dr.Jose Buill Belenguer","instrumental","537.426.0155","FÓRCEPS NO.65",1,NULL,"2024-11-29",-516
+"Hospital General Papantla Dr.Jose Buill Belenguer","instrumental","537.426.0411","FÓRCEPS NO.69",1,NULL,"2024-11-29",-516
+"Hospital General Papantla Dr.Jose Buill Belenguer","instrumental","537.426.0726","FÓRCEPS PARA ODONTECTOMÍAS DEL No. 210",1,NULL,"2024-11-29",-516
+"Hospital General Papantla Dr.Jose Buill Belenguer","instrumental","537.426.0734","FÓRCEPS PARA ODONTECTOMÍAS DEL No. 222",1,NULL,"2024-11-29",-516
+"Hospital General Papantla Dr.Jose Buill Belenguer","instrumental","537.547.0019","JERINGA CARPULE CON ADAPTADOR PARA AGUJA DESECHABLE",10,NULL,"2024-11-29",-516
+"Hospital General Papantla Dr.Jose Buill Belenguer","instrumental","S/C","JUEGO DE GRAPAS",1,NULL,"2024-12-04",-511
+"Hospital General Papantla Dr.Jose Buill Belenguer","instrumental","S/C","JUEGO DE PROFILAXIS 8 INSTRUMENTOS",1,NULL,"2024-11-29",-516
+"Hospital General Papantla Dr.Jose Buill Belenguer","instrumental","535.567.0059","LEGRA MEAD MANGO RECTO DOBLE EXTREMO",1,NULL,"2024-11-29",-516
+"Hospital General Papantla Dr.Jose Buill Belenguer","instrumental","537.583.0105","LIMA MILLER O COLBURN, DOBLE EXTREMO No. 10c O No. 3",1,NULL,"2024-11-29",-516
+"Hospital General Papantla Dr.Jose Buill Belenguer","instrumental","537.602.0409","MANGO PARA ESPEJO DENTAL METALICO MACIZO ROSCA SENCILLA",10,NULL,"2024-11-29",-516
+"Hospital General Papantla Dr.Jose Buill Belenguer","instrumental","537.703.7493","PINZA AINSWORTH LONGITUD DE 160 A 165 MM",1,NULL,"2024-11-29",-516
+"Hospital General Papantla Dr.Jose Buill Belenguer","instrumental","537.702.0531","PINZA BREWER PORTA GRAPAS PARA DIQUE DE HULE",1,NULL,"2024-11-29",-516
+"Hospital General Papantla Dr.Jose Buill Belenguer","instrumental","537.703.9598","PINZA COLLEGE O LONDON-COLLEGE TIPO BAYONETA",10,NULL,"2024-11-29",-516
+"Hospital General Papantla Dr.Jose Buill Belenguer","instrumental","537.719.0052","PORTA MATRIZ PARA BANDA DE CELULOIDE",1,NULL,"2024-11-29",-516
+"Hospital General Papantla Dr.Jose Buill Belenguer","instrumental","537.860.0018","TIRAPUENTE MILLER CON TRES PUNTAS DIFERENTES",1,NULL,"2024-11-29",-516
+"Hospital General Papantla Dr.Jose Buill Belenguer","material","060.040.8041","AGUJAS DENTALES. TIPO CARPULE. DESECHABLE. LONGITUD. 20-25 MM CALIBRE: 30 G TAMAÑO: CORTA.",9,1,"2029-02-28",1036
+"Hospital General Papantla Dr.Jose Buill Belenguer","material","060.040.8058","AGUJAS DENTAL .TIPO CARPULE. DESECHABLE. LONGITUD. 25-42 MM CALIBRE. 27 G TAMAÑO. LARGA.",4,1,"2029-02-28",1036
+"Hospital General Papantla Dr.Jose Buill Belenguer","material","060.082.0294","APLICADORES, APLICADOR PLASTICO DESECHABLE PARA MATERIALES, ENVASE CON 100 APLICADORES FINO",5,NULL,"2028-08-21",845
+"Hospital General Papantla Dr.Jose Buill Belenguer","material","060.082.0294","APLICADORES, APLICADOR PLASTICO DESECHABLE PARA MATERIALES, ENVASE CON 100 APLICADORES FINO",4,NULL,"2029-03-31",1067
+"Hospital General Papantla Dr.Jose Buill Belenguer","material","060.082.0310","APLICADORES, APLICADOR PLASTICO DESECHABLE PARA MATERIALES, ENVASE CON 100 APLICADORES GRUESOS",5,NULL,"2027-08-21",479
+"Hospital General Papantla Dr.Jose Buill Belenguer","material","060.203.0058","BANDA MATRIZ 5MM",12,NULL,"2030-02-28",1401
+"Hospital General Papantla Dr.Jose Buill Belenguer","material","S/C","CAMPO DESECHABLE. CUENTA CON DOS CAPAS DE PROTECCIÓN: 1 CAPA DE PAPEL Y UNA DE POLIETILENO. MED. 45 CM X 35 CM, DIFERENTES COLORES",50,1,"2029-08-31",1220
+"Hospital General Papantla Dr.Jose Buill Belenguer","material","060.182.0160","CEMENTO: IONÓMERO DE VIDRIO I.    PARA CEMENTACIONES DEFINITIVAS.    POLVO 35 G.    SILICATO DE ALUMINIO 95% -97%.    ÁCIDO POLIACRÍLICO 3% - 5%.    LÍQUIDO 25 G, 20 ML.    ÁCIDO POLIACRÍLICO 75%.    ÁCIDO POLIBÁSICO 10-15%.    JUEGO.",3,1,"2027-03-30",335
+"Hospital General Papantla Dr.Jose Buill Belenguer","material","060.182.1275","CEMENTOS. DENTALES. PARA RESTAURACIÓN INTERMEDIA. DE ÓXIDO DE ZINC (POLVO) 38 G Y EUGENOL (LÍQUIDO) 14 ML. CON GOTERO DE PLÁSTICO. JUEGO.",3,0,"2029-03-31",1067
+"Hospital General Papantla Dr.Jose Buill Belenguer","material","060.182.1366","CEMENTOS DENTALES. PARA USO QUIRÚRGICO. DE OXIDO DE ZINC CON ENDURECEDOR (POLVO) 65 G Y EUGENOL (LIQUIDO) 30 ML. CON GOTERO DE PLÁSTICO.",1,1,"2027-06-30",427
+"Hospital General Papantla Dr.Jose Buill Belenguer","material","060.182.0228","CEMENTOS. IONÓMERO DE VIDRIO. PARA TRATAMIENTO RESTAURATIVO ATRAUMÁTICO. POLVO: 10 G. SILICATO DE ALUMINIO 89 -95%. ÁCIDO POLIACRÍLICO 0.-10%. LÍQUIDO 6 G 4.8 ML AGUA DESTILADA.ÁCIDO POLIACRÍLICO 40 -50%.BARNIZ 5 G.CLORURO DE POLIVINIL 10 -20%.ACETATO ETÍLICO 75 -85%. ESTUCHE.",4,1,"2027-02-28",305
+"Hospital General Papantla Dr.Jose Buill Belenguer","material","060.182.0186","CEMENTOS. IONÓMERO DE VIDRIO RESTAURATIVO II.COLOR NO. 22.POLVO 15 G.SILICATO DE ALUMINIO 95% -97%.ÁCIDO POLIACRÍLICO 3% -5%.LÍQUIDO 10 G 8 ML.ÁCIDO POLIACRÍLICO 75%.ÁCIDO TARTÁRICO 10% - 15%.BARNIZ COMPATIBLE LÍQUIDO 10 G. JUEGO.",1,1,"2026-03-20",-40
+"Hospital General Papantla Dr.Jose Buill Belenguer","material","060.182.1440","CEMENTOS. IONÓMERO DE VIDRIO RESTAURATIVO TIPO II. PARA TRATAMIENTO RESTAURATIVO ATRAUMÁTICO (TRA). PARA RESTAURACIONES INTERMEDIAS. PARA BASES. PARA ODONTOLOGÍA MÍNIMAMENTE INVASIVA (OMI). TONO A3 . POLVO GRANULADO RADIOPACO: 12.5 G. VIDRIO DE FLUOROSILICATO DE CALCIO LANTANO. ALUMINIO RECUBIERTO 90% . ÁCIDO POLIACRÍLICO. 10% ÁCIDO BENZÓICO <0.1% PIGMENTOS <0.1% LÍQUIDO DE 8.5 ML (10GR). AGUA  55%-65%  COPOLÍMERO  DE  ÁCIDO ACRÍLICO  Y ÁCIDO MALÉICO. 25-35% ÁCIDO TARTÁRICO. 9.1% ÁCIDO BENZÓICO. 0.1% LOSETA DE PAPEL ENCERADO CUCHARILLA DISPENSADORA GUÍA DE APLICACIÓN E INSTRUCTIVO. ESTUCHE.",1,1,"2026-05-01",2
+"Hospital General Papantla Dr.Jose Buill Belenguer","material","060.182.1150","CEMENTOS PROTECTOR PULPAR PARA SELLAR CAVIDADES DENTALES. DE HIDRÓXIDO DE CALCIO, COMPUESTO Y APLICADOR AUTOPOLIMERIZABLE, DOS PASTAS SEMILÍQUIDAS, BASE 13 DESECHABLE G Y CATALIZADOR 11 G CON BLOQUE DE PAPEL PARA MEZCLAR.",7,1,"2026-11-20",205
+"Hospital General Papantla Dr.Jose Buill Belenguer","material","060.189.0254","CEPILLO PARA PULIDO DE AMALGAMAS Y PROFILAXIS. DE CERDAS BLANCAS EN FORMA DE COPA. PARA CONTRA-ÁNGULO.",10,20,"2030-02-28",1401
+"Hospital General Papantla Dr.Jose Buill Belenguer","material","060.189.0254","CEPILLO PARA PULIDO DE AMALGAMAS Y PROFILAXIS. DE CERDAS BLANCAS EN FORMA DE COPA. PARA CONTRA-ÁNGULO.",20,20,"2027-11-09",559
+"Hospital General Papantla Dr.Jose Buill Belenguer","material","060.189.0106","CEPILLOS. DENTAL INFANTIL, CON MANGO DE PLÁSTICO Y CERDAS RECTAS DE NYLON 6.12, 100 % VIRGEN O POLIÉSTER P.B.T. 100 % VIRGEN, DE PUNTAS REDONDEADAS EN 3 HILERAS, CABEZA CORTA, CONSISTENCIA MEDIANA.",11,300,"2029-10-31",1281
+"Hospital General Papantla Dr.Jose Buill Belenguer","material","060.189.0015","CEPILLOS. DENTAL, PARA ADULTO, CON MANGO DE PLÁSTICO Y CERDAS RECTAS DE NYLON 6.12, 100 % VIRGEN O POLIÉSTER P.B.T. 100 % VIRGEN, DE PUNTAS REDONDEADAS EN 4 HILERAS, CABEZA CORTA, CONSISTENCIA MEDIANA.",5,300,"2029-03-31",1067
+"Hospital General Papantla Dr.Jose Buill Belenguer","material","060.219.0068","COLORANTES. REVELADORES DE PLACAS DENTOBACTERIANAS. TABLETAS SIN SABOR. ENVASE CON 100 PIEZAS.",6,3,"2026-10-11",165
+"Hospital General Papantla Dr.Jose Buill Belenguer","material","060.272.0039","CUCHARILLAS. PARA APLICACIÓN TÓPICA DE FLÚOR EN GEL DE VINIL ATÓXICO DESECHABLES. ESTUCHE QUE CONSTA DE: 1 PAR PARA ADOLESCENTES.",30,100,"2030-02-20",1393
+"Hospital General Papantla Dr.Jose Buill Belenguer","material","060.272.0047","CUCHARILLAS. PARA APLICACIÓN TÓPICA DE FLÚOR EN GEL DE VINIL ATÓXICO DESECHABLES. ESTUCHE QUE CONSTA DE: 1 PAR PARA ADULTOS.",30,100,"2028-10-09",894
+"Hospital General Papantla Dr.Jose Buill Belenguer","material","060.272.0021","CUCHARILLAS. PARA APLICACIÓN TÓPICA DE FLÚOR EN GEL DE VINIL ATÓXICO DESECHABLES. ESTUCHE QUE CONSTA DE: 1 PAR PARA NIÑOS DE 4 A 7 AÑOS.",30,100,"2029-04-14",1081
+"Hospital General Papantla Dr.Jose Buill Belenguer","material","060.276.0050","CUÑAS. DE MADERA PARA ESPACIOS INTERDENTARIOS. ENVASE CON 100 PIEZAS.",5,1,"2030-02-20",1393
+"Hospital General Papantla Dr.Jose Buill Belenguer","material","S/C","DIQUE DE HULE. 6*6 GROSOR MEDIO  .18 A .23.",2,NULL,"2029-07-19",1177
+"Hospital General Papantla Dr.Jose Buill Belenguer","material","060.910.0011","EYECTORES. PARA SALIVA DE PLÁSTICO DESECHABLE. ENVASE CON 100 PIEZAS.",6,1,"2029-03-31",1067
+"Hospital General Papantla Dr.Jose Buill Belenguer","material","060.066.0500","FLUORURO DE SODIO. PARA PREVENCIÓN DE CARIES. ACIDULADO AL 2%. EN GEL DE SABOR. ENVASE CON 480 ML.",5,1,"2030-02-20",1393
+"Hospital General Papantla Dr.Jose Buill Belenguer","material","060.431.0599","FRESAS DENTALES PARA UTILIZARSE EN LA PIEZA DE MANO DE ALTA VELOCIDAD. DE DIAMANTE, GRANO GRUESO, FORMA CILÍNDRICA. NO. 012.",5,0,"2026-11-20",205
+"Hospital General Papantla Dr.Jose Buill Belenguer","material","060.431.0532","FRESAS DENTALES PARA UTILIZARSE EN LA PIEZA DE MANO DE ALTA VELOCIDAD. DE DIAMANTE, GRANO GRUESO, FORMA REDONDA, NO. 014.",5,0,"2026-02-27",-61
+"Hospital General Papantla Dr.Jose Buill Belenguer","material","060.431.0615","FRESAS DENTALES PARA UTILIZARSE EN LA PIEZA DE MANO DE ALTA VELOCIDAD. DE DIAMANTE, PARA TERMINACIÓN DE COMPOSITES FORMA CILÍNDRICA NO. 012",25,0,"2026-03-04",-56
+"Hospital General Papantla Dr.Jose Buill Belenguer","material","060.811.0060","HILOS. SEDA DENTAL SIN CERA. ENVASE CON ROLLO DE 50 M.",8,5,"2029-02-28",1036
+"Hospital General Papantla Dr.Jose Buill Belenguer","material","060.593.0106","LOSETA. PARA BATIR CEMENTO. DE VIDRIO. TAMAÑO: 8 X 12 X 0.5 CM. PIEZA.",1,1,"2028-04-05",707
+"Hospital General Papantla Dr.Jose Buill Belenguer","material","S/C","MATERIAL ALCASITE DE OBTURACIÓN DEFINITIVO PARA LOS DIENTES POSTERIORES CONTIENE 15 GR DE POLVO Y 4 GR LIQUIDO",1,NULL,"2026-02-28",-60
+"Hospital General Papantla Dr.Jose Buill Belenguer","material","060.749.0703","PASTAS. PARA PROFILAXIS DENTAL. ABRASIVA. CON ABRASIVOS BLANDOS.  ENVASE CON 200 G.",4,2,"2026-05-31",32
+"Hospital General Papantla Dr.Jose Buill Belenguer","material","S/C","PUNTAS DE ACABADO Y PULIDO PARA APLICACIONES OCLUSALES E INTERPROXIMALES. TRES GRADOS DE ABRASIÓN Y CUATRO FORMAS DIFERENTES: LLAMA PEQUEÑA, LLAMA GRANDE, COPA Y DISCO.  (PIEDRAS PARA PULIR COMPOSITES)",1,NULL,"2026-02-27",-61
+"Hospital General Papantla Dr.Jose Buill Belenguer","material","060.791.0106","RESINA. FOTOPOLIMERIZABLE PARA RESTAURACIÓN DE DIENTES ANTERIORES Y POSTERIORES. JERINGA 3.5G.  LAS INSTITUCIONES PODRÁN ELEGIR LAS VARIANTES DE COLOR Y COMPOSICIÓN.",0,2,"2027-03-31",336
+"Hospital General Papantla Dr.Jose Buill Belenguer","material","060.791.0114","RESINA. FOTOPOLIMERIZABLE PARA RESTAURACIÓN DE DIENTES ANTERIORES Y POSTERIORES. JERINGA 4G.  LAS INSTITUCIONES PODRÁN ELEGIR LAS VARIANTES DE COLOR Y COMPOSICIÓN.",2,2,"2027-03-31",336
+"Hospital General Papantla Dr.Jose Buill Belenguer","material","060.960.0024","RESTAURADOR EN BLOQUE DE VIDRIO HIBRIDO/CAPA AUTOADHESIVA FOTOPOLIMERISABLE (CEMENTO DENTAL DE RESINA COMPUESTA)",1,NULL,"2027-04-26",362
+"Hospital General Papantla Dr.Jose Buill Belenguer","material","060.889.0158","TIRAS. DE CELULOIDE PARA CONFORMAR RESTAURACIONES DE RESINA. ANCHO: 8 A10 MM CALIBRE:",1,1,"2030-02-20",1393
+"Hospital General Papantla Dr.Jose Buill Belenguer","material","S/C","VASOS DESECHABLES BIODEGRADABLES DE 4 ONZAS. 100 PIEZAS",2,NULL,"2029-10-15",1265
+"Hospital General Papantla Dr.Jose Buill Belenguer","mobiliario","S/C","",NULL,NULL,"",NULL
+"Hospital General Papantla Dr.Jose Buill Belenguer","mobiliario","S/C","AIRE ACONDICIONADO",1,NULL,"",NULL
+"Hospital General Papantla Dr.Jose Buill Belenguer","mobiliario","S/C","AIRE ACONDICIONADO",1,NULL,"",NULL
+"Hospital General Papantla Dr.Jose Buill Belenguer","mobiliario","S/C","CARRO CAJONERO CON RUEDAS",1,NULL,"",NULL
+"Hospital General Papantla Dr.Jose Buill Belenguer","mobiliario","S/C","CARRO CAJONERO CON RUEDAS",1,NULL,"",NULL
+"Hospital General Papantla Dr.Jose Buill Belenguer","mobiliario","350.308.0040","DESPCHADOR DE TOALLA DE PAPEL INTERDOBLADA GRANDE",1,NULL,"",NULL
+"Hospital General Papantla Dr.Jose Buill Belenguer","mobiliario","350.308.0040","DESPCHADOR DE TOALLA DE PAPEL INTERDOBLADA GRANDE",1,NULL,"",NULL
+"Hospital General Papantla Dr.Jose Buill Belenguer","mobiliario","511.339.0206","ESCRITORIO CHICO CON PEDESTAL DERECHO",1,NULL,"",NULL
+"Hospital General Papantla Dr.Jose Buill Belenguer","mobiliario","511.339.0206","ESCRITORIO CHICO CON PEDESTAL DERECHO",1,NULL,"",NULL
+"Hospital General Papantla Dr.Jose Buill Belenguer","mobiliario","S/C","LAVABO CONTRA MURO",1,NULL,"",NULL
+"Hospital General Papantla Dr.Jose Buill Belenguer","mobiliario","S/C","LAVABO CONTRA MURO",1,NULL,"",NULL
+"Hospital General Papantla Dr.Jose Buill Belenguer","mobiliario","S/C","MESA ALTA CON RESPALDO Y FREGADERO DE 120 CM",1,NULL,"",NULL
+"Hospital General Papantla Dr.Jose Buill Belenguer","mobiliario","S/C","MESA ALTA CON RESPALDO Y FREGADERO DE 120 CM",1,NULL,"",NULL
+"Hospital General Papantla Dr.Jose Buill Belenguer","mobiliario","511.814.0127","SILLA FIJA ACOJINADA APILABLE",1,NULL,"",NULL
+"Hospital General Papantla Dr.Jose Buill Belenguer","mobiliario","511.814.0127","SILLA FIJA ACOJINADA APILABLE",1,NULL,"",NULL
+"Hospital General Papantla Dr.Jose Buill Belenguer","mobiliario","511.836.0295","SILLÓN GIRATORIO DE RESPALDO BAJO",1,NULL,"",NULL
+"Hospital General Papantla Dr.Jose Buill Belenguer","mobiliario","511.836.0295","SILLÓN GIRATORIO DE RESPALDO BAJO",1,NULL,"",NULL

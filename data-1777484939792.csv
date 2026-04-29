@@ -1,0 +1,109 @@
+"hospital_nombre","categoria","clave","descripcion","stock","minimo","fecha","dias_restantes"
+"Uneme de Platon Sanchez","bienesInformaticos","S/C","COMPUTADORA DE ESCRITORIO MEDIO RENDIMIENTO WINDOWS",1,1,"",NULL
+"Uneme de Platon Sanchez","bienesInformaticos","S/C","EQUIPO MULTIFUNCIONAL LÁSER MONOCROMÁTICO",0,0,"",NULL
+"Uneme de Platon Sanchez","bienesInformaticos","S/C","UNIDAD DE ENERGÍA ININTERRUMPIDA TIPO 3. INTERACTIVO, CAPACIDAD DE 500 VA/300 WATSS.",0,0,"",NULL
+"Uneme de Platon Sanchez","equipo","S/C","CÁMARA INTRAORAL DIGITAL.",1,NULL,"",NULL
+"Uneme de Platon Sanchez","equipo","531.385.1080","ESTERILIZADOR CON VAPOR AUTOGENERADO PARA DENTAL Y MAXILOFACIAL",0,0,"",NULL
+"Uneme de Platon Sanchez","equipo","531.385.1080","ESTERILIZADOR CON VAPOR AUTOGENERADO PARA DENTAL Y MAXILOFACIAL",0,0,"",NULL
+"Uneme de Platon Sanchez","equipo","531.562.0020","LÁMPARA DE FOTOCURADO DE RESINAS Y CEMENTOS FOTOPOLIMERIZABLES",1,1,"",NULL
+"Uneme de Platon Sanchez","equipo","531.601.0056","MANDIL EMPLOMADO",0,NULL,"",NULL
+"Uneme de Platon Sanchez","equipo","531.032.0055","MEZCLADOR DE CÁPSULAS DENTALES, TIPO DOSIFICADOR-AMALGAMADOR (MEZCLA CÁPSULAS DE CEMENTO DE IONÓMERO DE VIDRIO Y OTROS CEMENTOS PREDOSIFICADOS EN CÁPSULAS) 4000 RPM",1,NULL,"",NULL
+"Uneme de Platon Sanchez","equipo","537.480.0042","PIEZA DE MANO DE ALTA VELOCIDAD",1,1,"",NULL
+"Uneme de Platon Sanchez","equipo","537.480.0042","PIEZA DE MANO DE ALTA VELOCIDAD",1,1,"",NULL
+"Uneme de Platon Sanchez","equipo","437.480.0034","PIEZA DE MANO DE BAJA VELOCIDAD CON CONTRAÁNGULO",1,1,"",NULL
+"Uneme de Platon Sanchez","equipo","531.695.0061","PORTA MANDIL",0,NULL,"",NULL
+"Uneme de Platon Sanchez","equipo","531.786.0079","REVELADOR MANUAL DE PLACAS DENTALES",0,NULL,"",NULL
+"Uneme de Platon Sanchez","equipo","S/C","TINA ULTRASÓNICA PARA ESTOMATOLOGÍA",0,0,"",NULL
+"Uneme de Platon Sanchez","equipo","S/C","TINA ULTRASÓNICA PARA ESTOMATOLOGÍA",0,0,"",NULL
+"Uneme de Platon Sanchez","equipo","S/C","TINA ULTRASÓNICA PARA ESTOMATOLOGÍA",0,0,"",NULL
+"Uneme de Platon Sanchez","equipo","531.291.0028","UNIDAD ESTOMATOLÓGICA CON MÓDULO INTEGRADO",1,1,"",NULL
+"Uneme de Platon Sanchez","equipo","531.291.0424","UNIDAD ESTOMATOLÓGICA PORTÁTIL *",0,0,"",NULL
+"Uneme de Platon Sanchez","equipo","531.341.2305","UNIDAD RADIOLÓGICA DENTAL INCLUYE SENSOR DIGITAL INTRAORAL (RADIOVISIÓGRAFO)",0,1,"",NULL
+"Uneme de Platon Sanchez","equipo","515.957.0109","UNIDAD ULTRASÓNICA ESTOMATOLÓGICA",0,0,"",NULL
+"Uneme de Platon Sanchez","instrumental","537.025.0069","ALVEOLOTOMO MEAD PINZA GUBIA LONGITUD 17CM",1,1,"",NULL
+"Uneme de Platon Sanchez","instrumental","537.065.0052","APLICADOR DE HIDROXIDO DE CALCIO",5,1,"",NULL
+"Uneme de Platon Sanchez","instrumental","537.079.0015","ARCO YOUNG PORTA DIQUE DE HULE",1,1,"",NULL
+"Uneme de Platon Sanchez","instrumental","537.105.0179","BISTURÍ GOLDMAN FOX. NO.7",0,1,"",NULL
+"Uneme de Platon Sanchez","instrumental","535.137.0035","BISTURÍ QUIRÚRGICO. MANGO N° 3, CON ESCALA",0,NULL,"",NULL
+"Uneme de Platon Sanchez","instrumental","537.151.0016","BOTA FRESA BRODEN: ADITAMIENTO PARA PIEZA DE MANO DE ALTA VELOCIDAD",1,0,"",NULL
+"Uneme de Platon Sanchez","instrumental","537.147.0017","BUDINERA DE ACERO INOXIDABLE 25 X 16 CM Y 700 ML.",0,0,"",NULL
+"Uneme de Platon Sanchez","instrumental","S/C","CAJA METALICA CON TAPA PARA INSTRUMENTAL 20 X 10 X 4.5 CM",2,0,"",NULL
+"Uneme de Platon Sanchez","instrumental","535.260.2154","CUCHARILLA LUCAS DE DOBLE EXTREMO 17CM DE LONGITUD",1,1,"",NULL
+"Uneme de Platon Sanchez","instrumental","537.251.0098","CURETA CK-6 DE DOBLE EXTREMO",2,NULL,"",NULL
+"Uneme de Platon Sanchez","instrumental","537.251.0015","CURETA MC CALL DERECHA E IZQUIERDA. JUEGO.",1,1,"",NULL
+"Uneme de Platon Sanchez","instrumental","537.327.0551","ELEVADOR APICAL FLOHR MANGO METALICO BRAZO ANGULAR EXTREMO FINO CORTO DERECHO",1,0,"",NULL
+"Uneme de Platon Sanchez","instrumental","537.327.0700","ELEVADOR APICAL FLOHR MANGO METALICO BRAZO ANGULAR EXTREMO FINO CORTO IZQUIERDO",1,0,"",NULL
+"Uneme de Platon Sanchez","instrumental","537.327.2664","ELEVADOR BEIN CON MANGO METALICO RECTO ACALANADO DE 4MM.",1,0,"",NULL
+"Uneme de Platon Sanchez","instrumental","537.327.0452","ELEVADOR BEIN CON MANGO METALICO RECTO ACANALADO DE 2 O 3 MM ANCHO DE HOJA",1,1,"",NULL
+"Uneme de Platon Sanchez","instrumental","537.327.1534","ELEVADOR SELDIN DE BANDERA DERECHO HOJA GRANDE",1,1,"",NULL
+"Uneme de Platon Sanchez","instrumental","537.327.2805","ELEVADOR SELDIN DE BANDERA DERECHO HOJA PEQUEÑA",1,1,"",NULL
+"Uneme de Platon Sanchez","instrumental","537.327.2813","ELEVADOR SELDIN DE BANDERA IZQUIERDA HOJA PEQUEÑA",1,0,"",NULL
+"Uneme de Platon Sanchez","instrumental","537.327.1609","ELEVADOR SELDIN DE BANDERA IZQUIERDO HOJA GRANDE",1,1,"",NULL
+"Uneme de Platon Sanchez","instrumental","537.327.0957","ELEVADOR TIPO CRYER WHITE DE BANDERA DERECHO HOJA PEQUEÑA",1,1,"",NULL
+"Uneme de Platon Sanchez","instrumental","537.327.1104","ELEVADOR TIPO CRYER WHITE DE BANDERA IZQUIERDO HOJA PEQUEÑA",1,1,"",NULL
+"Uneme de Platon Sanchez","instrumental","537.370.0029","ESPÁTULA METÁLICA No.3 DOBLE EXTREMO (RECTANGULAR Y PUNTA LANZA)",1,1,"",NULL
+"Uneme de Platon Sanchez","instrumental","537.370.0128","ESPÁTULA PARA RESINA, DE PLÁSTICO, DOBLE PUNTA",0,0,"",NULL
+"Uneme de Platon Sanchez","instrumental","537.383.0081","ESPEJO DENTAL ROSCA SENCILLA PLANO SIN AUMENTO NO.5",20,0,"",NULL
+"Uneme de Platon Sanchez","instrumental","537.397.0168","EXCAVADOR TIPO WHITE No.17",10,5,"",NULL
+"Uneme de Platon Sanchez","instrumental","537.397.0150","EXCAVADOR TIPO WHITE No.5",0,1,"",NULL
+"Uneme de Platon Sanchez","instrumental","537.409.0531","EXPLORADOR DE UNA PIEZA CON DOBLE EXTREMO NO.5",10,3,"",NULL
+"Uneme de Platon Sanchez","instrumental","537.426.0015","FÓRCEPS DENTAL TIPO KLEIN, INFANTIL No. 151 1/2 S",1,1,"",NULL
+"Uneme de Platon Sanchez","instrumental","537.426.0221","FÓRCEPS NO.101",1,1,"",NULL
+"Uneme de Platon Sanchez","instrumental","537.426.0197","FÓRCEPS NO.150",1,1,"",NULL
+"Uneme de Platon Sanchez","instrumental","537.426.0189","FÓRCEPS NO. 151",1,1,"",NULL
+"Uneme de Platon Sanchez","instrumental","537.426.0171","FÓRCEPS NO.17",1,1,"",NULL
+"Uneme de Platon Sanchez","instrumental","537.426.0023","FÓRCEPS. NO 23.",1,NULL,"",NULL
+"Uneme de Platon Sanchez","instrumental","537.426.0460","FÓRCEPS NO.53 DERECHO",1,NULL,"",NULL
+"Uneme de Platon Sanchez","instrumental","537.426.0270","FÓRCEPS NO.53 IZQUIERDO",1,NULL,"",NULL
+"Uneme de Platon Sanchez","instrumental","537.426.0155","FÓRCEPS NO.65",1,NULL,"",NULL
+"Uneme de Platon Sanchez","instrumental","537.426.0411","FÓRCEPS NO.69",1,NULL,"",NULL
+"Uneme de Platon Sanchez","instrumental","537.426.0205","FÓRCEPS PARA ODONTECTOMÍAS DEL No. 151 B",0,NULL,"",NULL
+"Uneme de Platon Sanchez","instrumental","537.426.0726","FÓRCEPS PARA ODONTECTOMÍAS DEL No. 210",0,NULL,"",NULL
+"Uneme de Platon Sanchez","instrumental","537.426.0734","FÓRCEPS PARA ODONTECTOMÍAS DEL No. 222",0,NULL,"",NULL
+"Uneme de Platon Sanchez","instrumental","537.426.0544","FÓRCEPS PARA ODONTECTOMÍAS TIPO KLEIN, DEL No. 3",0,NULL,"",NULL
+"Uneme de Platon Sanchez","instrumental","537.426.0502","FÓRCEPS PARA ODONTECTOMÍAS TIPO KLEIN, DEL No. 6",0,NULL,"",NULL
+"Uneme de Platon Sanchez","instrumental","537.547.0019","JERINGA CARPULE CON ADAPTADOR PARA AGUJA DESECHABLE",10,NULL,"",NULL
+"Uneme de Platon Sanchez","instrumental","S/C","JUEGO DE 4 O 5 ESPATULAS PARA RESINA DE TEFLON",1,NULL,"",NULL
+"Uneme de Platon Sanchez","instrumental","S/C","JUEGO DE ALGODONERA SUCIO Y LIMPIO. ENVASE DE ACERO",2,NULL,"",NULL
+"Uneme de Platon Sanchez","instrumental","S/C","JUEGO DE GRAPAS",0,NULL,"",NULL
+"Uneme de Platon Sanchez","instrumental","S/C","JUEGO DE PROFILAXIS 8 INSTRUMENTOS",1,NULL,"",NULL
+"Uneme de Platon Sanchez","instrumental","535.567.0059","LEGRA MEAD MANGO RECTO DOBLE EXTREMO",1,NULL,"",NULL
+"Uneme de Platon Sanchez","instrumental","537.583.0105","LIMA MILLER O COLBURN, DOBLE EXTREMO No. 10c O No. 3",1,NULL,"",NULL
+"Uneme de Platon Sanchez","instrumental","537.602.0409","MANGO PARA ESPEJO DENTAL METALICO MACIZO ROSCA SENCILLA",10,NULL,"",NULL
+"Uneme de Platon Sanchez","instrumental","537.703.7493","PINZA AINSWORTH LONGITUD DE 160 A 165 MM",1,NULL,"",NULL
+"Uneme de Platon Sanchez","instrumental","537.702.0531","PINZA BREWER PORTA GRAPAS PARA DIQUE DE HULE",1,NULL,"",NULL
+"Uneme de Platon Sanchez","instrumental","537.703.9598","PINZA COLLEGE O LONDON-COLLEGE TIPO BAYONETA",10,NULL,"",NULL
+"Uneme de Platon Sanchez","instrumental","531.687.0012","PISTOLA APLICADORA DE CAPSULAS (PARA VIDRIO HIBRIO)",1,NULL,"",NULL
+"Uneme de Platon Sanchez","instrumental","531.687.0012","PORTA ABATELENGUAS CON TAPA, DE ACERO INOXIDABLE",0,NULL,"",NULL
+"Uneme de Platon Sanchez","instrumental","535.716.0190","PORTA AGUJA FINOCHIETO, LONGITUD 14.6 CM.",0,NULL,"",NULL
+"Uneme de Platon Sanchez","instrumental","537.719.0052","PORTA MATRIZ PARA BANDA DE CELULOIDE",1,NULL,"",NULL
+"Uneme de Platon Sanchez","instrumental","537.720.0018","PORTA SERVILLETAS. MODELO MARTIN O ADAMS CON CADENA",0,NULL,"",NULL
+"Uneme de Platon Sanchez","instrumental","060.830.7237","SONDA PARODONTAL ROMA Y MILIMETRADA DE 1 A 10",0,NULL,"",NULL
+"Uneme de Platon Sanchez","instrumental","537.173.2511","SONDA PERIODONTAL W O WHO.",0,NULL,"",NULL
+"Uneme de Platon Sanchez","instrumental","535.859.2417","TIJERA MAYO, RECTA LONGITUD DE 170 MM",0,NULL,"",NULL
+"Uneme de Platon Sanchez","instrumental","535.859.1898","TIJERA QUINBY, CURVA, HOJAS CORTAS, LONGITUD 12.5 CM",0,NULL,"",NULL
+"Uneme de Platon Sanchez","instrumental","535.859.1286","TIJERAS IRIS, CURVA, LONGITUD 12 CM",0,NULL,"",NULL
+"Uneme de Platon Sanchez","instrumental","537.860.0018","TIRAPUENTE MILLER CON TRES PUNTAS DIFERENTES",1,NULL,"",NULL
+"Uneme de Platon Sanchez","instrumental","513.887.0059","TORUNDERA CON TAPA, ACERO INOXIDABLE 250 ML",0,NULL,"",NULL
+"Uneme de Platon Sanchez","insumos","S/C","BENZOCAÍNA 20% GEL, FRASCO 30 g",0,NULL,"",NULL
+"Uneme de Platon Sanchez","insumos","010.000.0267.00","LIDOCAÍNA, EPINEFRINA. SOLUCIÓN INYECTABLE AL 2%. CAJA CON 50 CARTUCHOS DENTALES CON 1.8 ML",5,NULL,"2027-04-30",366
+"Uneme de Platon Sanchez","insumos","S/C","MEPIVACAÍNA 3% SIN VASOCONSTRICTOR. CAJA CON 50 CARTUCHOS DENTALES DE 1.8 ML CADA UNO.",0,NULL,"",NULL
+"Uneme de Platon Sanchez","insumos","070.707.0496","PELÍCULA RADIOGRÁFICA, DENTAL ADULTO, MEDIDAS: EN UN RANGO DE 3 A 3.5 CM POR 4 A 4.5 CM. CAJA CON 150 PELÍCULAS1",0,NULL,"",NULL
+"Uneme de Platon Sanchez","insumos","070.707.0587","PELÍCULA RADIOGRÁFICA INFANTIL SENCILLA PERIAPICAL DE 2.2 * 3.5 CM. CAJA CON 100 PELÍCULAS1",0,NULL,"",NULL
+"Uneme de Platon Sanchez","insumos","070.426.0363","SOLUCIÓN PARA FIJADO PARA SISTEMA MANUAL DE FIJADOR CONCENTRADO. ENVASE 828 ML. (LA MARCA DE ESTE PRODUCTO DEBE SER LA MISMA DE LA CLAVE 070.817.0550)1",0,NULL,"",NULL
+"Uneme de Platon Sanchez","insumos","070.817.0550","SOLUCIÓN PARA REVELADO PARA SISTEMA MANUAL DE REVELADOR CONCENTRADO. ENVASE 828 ML. (LA MARCA DE ESTE PRODUCTO DEBE SER LA MISMA DE LA CLAVE 070.426.0363)1",0,NULL,"",NULL
+"Uneme de Platon Sanchez","mobiliario","S/C","AIRE ACONDICIONADO",1,NULL,"",NULL
+"Uneme de Platon Sanchez","mobiliario","511.076.0203","ARCHIVERO DE 4 GAVETAS",1,NULL,"",NULL
+"Uneme de Platon Sanchez","mobiliario","519.132.0059","BOTE DE CAMPANA",0,NULL,"",NULL
+"Uneme de Platon Sanchez","mobiliario","S/C","CARRO CAJONERO CON RUEDAS",0,NULL,"",NULL
+"Uneme de Platon Sanchez","mobiliario","511.232.0022","CESTO DE PAPELES",2,NULL,"",NULL
+"Uneme de Platon Sanchez","mobiliario","350.308.0040","DESPCHADOR DE TOALLA DE PAPEL INTERDOBLADA GRANDE",1,NULL,"",NULL
+"Uneme de Platon Sanchez","mobiliario","511.339.0206","ESCRITORIO CHICO CON PEDESTAL DERECHO",0,NULL,"",NULL
+"Uneme de Platon Sanchez","mobiliario","S/C","ESPEJO DE PARED",0,NULL,"",NULL
+"Uneme de Platon Sanchez","mobiliario","S/C","ESPEJO INDIVIDUAL PARA PACIENTES",0,NULL,"",NULL
+"Uneme de Platon Sanchez","mobiliario","S/C","LAVABO CONTRA MURO",1,NULL,"",NULL
+"Uneme de Platon Sanchez","mobiliario","S/C","MESA ALTA CON RESPALDO Y FREGADERO DE 120 CM",1,NULL,"",NULL
+"Uneme de Platon Sanchez","mobiliario","511.814.0127","SILLA FIJA ACOJINADA APILABLE",2,NULL,"",NULL
+"Uneme de Platon Sanchez","mobiliario","511.836.0295","SILLÓN GIRATORIO DE RESPALDO BAJO",1,NULL,"",NULL
+"Uneme de Platon Sanchez","mobiliario","515.957.0109","VITRINA DE 75 CM CONTRA MURO",0,NULL,"",NULL
+"Uneme de Platon Sanchez","mobiliario","S/C","VITRINA DOBLE ESMALTADA DOS PUERTAS SUPERIORES DE CRISTAL CON CERRADURA Y ENTREPAÑOS DE CRISTAL, DOS CAJONES CENTRALES, DOS PUERTAS DE LÁMINA DE HACER O INFERIORES CON ENTREPAÑOS",0,NULL,"",NULL
